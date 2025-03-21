@@ -1,0 +1,24 @@
+1.Project Domain: CYBER SECURITY
+2.Title of the Proposal: PHISHING & MALICIOUS WEBSITE URL DETECTION
+
+Abstract:
+
+Online phishing & malicious websites is one of the most common attacks on the modern internet. The
+goal of phishing website & malicious websites uniform resource locators is to steal personal data
+including login credentials and credit card numbers. As technology keeps growing, phishing &
+malicious websites strategies began to develop rapidly. Machine learning built an effective device used
+to attempt phishing attacks & malicious websites. In this project, we have built a phishing website by
+using extension and also an android application. We have used two so many different libraries and two
+algorithms which are logistic regression and multimodal NP. The purpose of this project is to check
+whether phishing websites & malicious websites are good URLs or bad URLs. We gathered data to
+create a dataset of malicious links and curate it for the machine learning model.
+
+Literature Survey:
+
+1)Xiao Lin, Glory Avina, and Javier Santoyo – Splunk Inc
+Reference link: https://ai4cyber-kdd.com/KDD-AISec_files/AI4Cyber_paper_4.pdf
+
+Name(s) of the Students with Roll number:
+1) CHANDRA SEKHAR RAO.ARNEPALLI - 23KT1F0004
+2) TARUN. KOSURI - 23KT1F0033
+3) PRIYANKA.BANTUPALLI - 23KT1F0006 
